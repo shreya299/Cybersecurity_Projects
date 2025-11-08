@@ -43,7 +43,7 @@ The objective was to perform a full vulnerability lifecycle: from **initial scan
 | Scanning & Assessment | Nessus, Nmap |
 | Configuration | Apache, PHP, SSH, Samba |
 | Operating System | Metasploitable 3 (Ubuntu-based) |
-| Documentation | Microsoft Word, PDF Reports |
+| Documentation | PDF Reports |
 
 ---
 
