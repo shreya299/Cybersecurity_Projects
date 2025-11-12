@@ -8,8 +8,26 @@
 This project simulates a full cybersecurity engagement — from vulnerability assessment and penetration testing to incident detection and response.  
 It was performed in a controlled home lab environment using intentionally vulnerable machines (**Metasploitable** and **Bee-Box**) to practice reconnaissance, exploitation, monitoring, and post-incident remediation.
 
----
+## 🧾 Project Summary
 
+| Category | Details |
+|-----------|----------|
+| **Project Goal** | Simulate a real-world cybersecurity workflow — from vulnerability assessment and penetration testing to incident detection and response. |
+| **Environment** | Virtual Lab: Metasploitable, Bee-Box, Ubuntu, pfSense Firewall |
+| **Focus Areas** | Vulnerability Scanning · Exploitation · Incident Response · Threat Detection |
+| **Tools & Frameworks** | Nmap · Nessus / OpenVAS · Metasploit · Wireshark · CVSS Scoring · MITRE ATT&CK |
+| **Key Results** | - Identified and exploited multiple CVEs (FTP, PHP, Drupal).<br>- Simulated Red Team attack and Blue Team response.<br>- Built an end-to-end Incident Response Plan (IRP). |
+| **Deliverables** | Vulnerability Assessment Report · Penetration Test Report · Incident Response Reports (PDFs) |
+| **Outcome** | Improved detection, remediation, and documentation skills across Red and Blue team workflows. |
+
+---
+### 🔹 Project Highlights
+✅  Vulnerability Discovery  
+✅  Controlled Exploitation (Metasploit)  
+✅  Blue Team Response Simulation  
+✅  Full Documentation (IRP + Reports)
+
+---
 ## Project Components
 
 ### 1) Vulnerability Assessment — RED Team  
