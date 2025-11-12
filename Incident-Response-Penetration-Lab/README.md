@@ -9,7 +9,7 @@ It was performed in a controlled lab environment using vulnerable machines (Meta
 
 ## Project Components
 
-### 🧩 1. [Vulnerability Assessment Report](Incident-Response-Penetration-Lab/vulnerability assessment report_RED Team.pdf)
+### 🧩 1. [Vulnerability Assessment Report](./vulnerability assessment report_RED Team.pdf)
 - Conducted reconnaissance and scanning using **Nmap** and **OpenVAS**.  
 - Discovered and categorized vulnerabilities by severity across Metasploitable and Bee-Box.  
 - Identified issues including outdated software, **directory traversal**, **Slowloris DoS**, **SSL/TLS misconfigurations**, and **ProFTPD Mod_Copy (CVE-2015-3306)**.  
